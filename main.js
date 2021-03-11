@@ -102,7 +102,7 @@ function mykeydown(e){
         console.log("tazer web");
     }
     if (keypressed=='70') {
-        new_web_update("fireweb.png");
+        new_web_update("Fire GIF-downsized.gif");
         console.log("fire web");
     }
     if (keypressed=='85') {
